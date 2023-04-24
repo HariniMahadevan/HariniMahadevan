@@ -5,7 +5,7 @@
 - 📫 How to reach me ...haricharan@gmail.com
 
 
-[Project 1: post partum depression analysis](https://www.kaggle.com/code/harinimahadevan/post-partum-depression-analysis/edit/run/119260011)
+[Project 1: post partum depression analysis][kaggle link](https://www.kaggle.com/code/harinimahadevan/post-partum-depression-analysis/edit/run/119260011)(https://github.com/HariniMahadevan/Harini_My_projects/blob/main/post-partum-depression-analysis%20(1).ipynb)
 * have done complete exploratory data analysis and continued with machine learning prediction using
 * decision trees, randon forest, support vector machines ,neural networks.
 
