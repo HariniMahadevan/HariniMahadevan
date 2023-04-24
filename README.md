@@ -9,6 +9,11 @@
 * have done complete exploratory data analysis and continued with machine learning prediction using
 *decision trees, randon forest, support vector machines ,neural networks.
 
+
+[Project 1:EDA of e_vehicles in washington](https://github.com/HariniMahadevan/Harini_My_projects/blob/main/eda-of-e-vehicles-in-washington-dc%20(1).ipynb)
+*have done extensive exploratorty data analysis of electric vehicles in Washington state in the US
+
+
 <!---
 HariniMahadevan/HariniMahadevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
