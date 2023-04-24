@@ -5,13 +5,13 @@
 - 📫 How to reach me ...haricharan@gmail.com
 
 
-[Project 1: post partum depression analysis](https://www.kaggle.com/code/harinimahadevan/post-partum-depression-analysis)
+[Project 1: post partum depression analysis](https://www.kaggle.com/code/harinimahadevan/post-partum-depression-analysis/edit/run/119260011)
 * have done complete exploratory data analysis and continued with machine learning prediction using
-*decision trees, randon forest, support vector machines ,neural networks.
+* decision trees, randon forest, support vector machines ,neural networks.
 
 
 [Project 2:EDA of e_vehicles in washington](https://github.com/HariniMahadevan/Harini_My_projects/blob/main/eda-of-e-vehicles-in-washington-dc%20(1).ipynb)
-*have done extensive exploratorty data analysis of electric vehicles in Washington state in the US
+* have done extensive exploratorty data analysis of electric vehicles in Washington state in the US
 
 
 <!---
