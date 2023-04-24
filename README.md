@@ -10,7 +10,7 @@
 *decision trees, randon forest, support vector machines ,neural networks.
 
 
-[Project 1:EDA of e_vehicles in washington](https://github.com/HariniMahadevan/Harini_My_projects/blob/main/eda-of-e-vehicles-in-washington-dc%20(1).ipynb)
+[Project 2:EDA of e_vehicles in washington](https://github.com/HariniMahadevan/Harini_My_projects/blob/main/eda-of-e-vehicles-in-washington-dc%20(1).ipynb)
 *have done extensive exploratorty data analysis of electric vehicles in Washington state in the US
 
 
